@@ -1,42 +1,34 @@
-# \# ✈️ Flight Masters: The Horizon Chase  
+# \# ​ Flight Masters: The Horizon Chase – Official Trailer
 
 # 
 
-# !\[Flight Masters Banner](https://via.placeholder.com/1200x400?text=Flight+Masters:+The+Horizon+Chase)  
+# \[Flight Masters: The Horizon Chase – Trailer](https://www.microsoft.com/en-gb/p/flight-masters-the-horizon-chase/9nbx3zg9zz8j?utm\_source=chatgpt.com)
+
+# 
+
+# 
+
+# ---
+
+# 
+
+# \#  Flight Masters: The Horizon Chase
 
 # 
 
 # \*\*Soar to new heights in \*Flight Masters: The Horizon Chase\*!\*\*  
 
-# Experience the adrenaline of \*\*high-speed aerial racing\*\* with \*\*intuitive controls\*\* supporting both \*\*PS4\*\* and \*\*Xbox controllers\*\*.  
+# Feel the adrenaline of \*\*high-speed aerial racing\*\* with \*\*intuitive controls\*\* fully supporting PS4 and Xbox controllers.
 
 # 
 
-# Race against friends in \*\*thrilling split-screen multiplayer\*\*, or challenge yourself in a variety of \*\*game modes\*\*.  
+# Race side-by-side in \*\*split-screen multiplayer\*\*, or test your limits across thrilling modes like \*\*Free Roam\*\*, \*\*Championship\*\*, and \*\*Time Trial\*\*.  
+
+# With expansive environments, stunning visual design, and fully customizable aircraft, each race becomes a unique, heart-pounding experience.
 
 # 
 
-# ---
-
-# 
-
-# \## 🌟 Features  
-
-# 
-
-# \- 🕹 \*\*Controller Support\*\* – Fully compatible with PS4 \& Xbox controllers.  
-
-# \- 🛫 \*\*Game Modes\*\* – Free Roam, Championship, and Time Trial challenges.  
-
-# \- 🌍 \*\*Expansive Environments\*\* – From open skies to challenging tracks.  
-
-# \- 🎨 \*\*Aircraft Customization\*\* – Upgrade performance and style.  
-
-# \- 🏆 \*\*Leaderboards\*\* – Climb the ranks and prove your skills.  
-
-# \- 👥 \*\*Split-Screen Multiplayer\*\* – Race with friends side-by-side.  
-
-# \- 🎮 \*\*Made with Unity\*\* – Smooth visuals and performance.  
+# Craft your aircraft, dominate the leaderboards, and become the ultimate Flight Master — whether you're a casual flyer or a fierce competitor, endless aerial fun awaits!
 
 # 
 
@@ -44,15 +36,23 @@
 
 # 
 
-# \## 📸 Screenshots  
+# \##  Features
 
 # 
 
-# \*(Add your screenshots here)\*  
+# \-  \*\*Controller Support\*\* – PS4 \& Xbox controllers, ready to go.  
 
-# | !\[Screenshot 1](https://via.placeholder.com/400x225) | !\[Screenshot 2](https://via.placeholder.com/400x225) | !\[Screenshot 3](https://via.placeholder.com/400x225) |
+# \-  \*\*Game Modes\*\* – Free Roam, Championship, Time Trial.  
 
-# |---|---|---|  
+# \-  \*\*Expansive Tracks\*\* – Race across vibrant, dynamic environments.  
+
+# \-  \*\*Customization\*\* – Style and performance options for your aircraft.  
+
+# \-  \*\*Split-Screen Multiplayer\*\* – Bring a friend for in-person showdowns.  
+
+# \-  \*\*Leaderboards\*\* – Prove your mettle and climb the charts.  
+
+# \-  \*\*Made with Unity\*\* – Smooth, polished gameplay and visuals.
 
 # 
 
@@ -60,17 +60,17 @@
 
 # 
 
-# \## 👩‍💻 Developers  
+# \##  Meet the Developers
 
 # 
 
 # \- \*\*Sasandara Dilmina\*\*  
 
-# \- \*\*Lasangi Nimhara\*\*  
+# \- \*\*Lasangi Nimhara\*\*
 
 # 
 
-# \*This game was developed purely for fun and the love of creating exciting racing experiences.\*  
+# This passion project was built \*for fun\* and crafted with love by our small, dedicated team.
 
 # 
 
@@ -78,33 +78,31 @@
 
 # 
 
-# \## 📥 Get the Game  
+# \##  Download \& Support
 
 # 
 
-# Support us and own the premium Microsoft Store version, or grab the free edition on itch.io!  
+# Support the developers with the premium version on the Microsoft Store, or grab the free edition on itch.io — both deliver the same core experience with your choice of support level:
 
 # 
 
-# \[!\[Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-Paid%20Version-blue?style=for-the-badge\&logo=microsoft)](https://apps.microsoft.com/detail/9nbx3zg9zz8j?hl=en-US\&gl=US)  
+# \[!\[Microsoft Store – Paid Version](https://img.shields.io/badge/Microsoft%20Store-Paid%20Version-blue?style=for-the-badge\&logo=microsoft)](https://apps.microsoft.com/detail/9nbx3zg9zz8j?hl=en-US\&gl=US)  
 
-# \*(Includes future updates \& supports the developers)\*  
+# \*(Includes future updates \& supports the devs directly)\*  
 
 # 
 
-# \[!\[Itch.io](https://img.shields.io/badge/Itch.io-Free%20Download-ff2449?style=for-the-badge\&logo=itch.io)](https://sasandara.itch.io/flight-masters)  
+# \[!\[Itch.io – Free Download](https://img.shields.io/badge/Itch.io-Free%20Download-ff2449?style=for-the-badge\&logo=itch.io)](https://sasandara.itch.io/flight-masters)  
 
 # \*(Play for free — same great experience!)\*
 
-# &nbsp; 
-
 # 
 
 # ---
 
 # 
 
-# \## 🛠 Tech Stack  
+# \##  Technical Stack
 
 # 
 
@@ -112,7 +110,7 @@
 
 # \- \*\*Language:\*\* C#  
 
-# \- \*\*Platforms:\*\* Windows (PC)  
+# \- \*\*Platform:\*\* Windows (PC)
 
 # 
 
@@ -120,17 +118,21 @@
 
 # 
 
-# \## 🚀 Join the Race!  
+# \##  Ready to Race?
 
 # 
 
-# Whether you're a \*\*casual flyer\*\* or a \*\*fierce competitor\*\*, \*Flight Masters: The Horizon Chase\* offers \*\*endless fun for everyone\*\*.  
+# Whether you're taking it easy in Free Roam or pushing your limits in a sprint, \*Flight Masters: The Horizon Chase\* is your gateway to fast-paced, joyful aviation.
 
 # 
 
-# \*Download today and become a legend!\*  
+# \*\*Download now and take off — become a legend today!\*\*
 
 # 
 
 # ---
+
+# 
+
+
 
